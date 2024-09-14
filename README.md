@@ -3,7 +3,7 @@ Legacy BIOS supported OS project, many thanks to YouTube videos and infinite art
 
 ### A Big Thanks To:
 
-<a href="https://youtube.com/@DaedalusCommunity" target="_blank"><img src="https://path-to-daedalus-logo.png" alt="Daedalus Community" width="100" height="100"></a>
+<a href="https://youtube.com/@DaedalusCommunity" target="_blank"><img src="[https://path-to-daedalus-logo.png](https://yt3.googleusercontent.com/8CwM9GyFaxp4BXO4NKkgV-8cjwYdOBWu9akXPpQYjqzxmxNPKqt1-eT5SmxufIf93dvWh1Fq=s900-c-k-c0x00ffffff-no-rj)" alt="Daedalus Community" width="90" height="90"></a>
 **Daedalus Community**
 
 <a href="https://www.cs.bham.ac.uk/~exr/lectures/opsys/10_11/lectures/os-dev.pdf" target="_blank"><img src="https://path-to-birmingham-logo.png" alt="Birmingham School of CS" width="100" height="100"></a>
